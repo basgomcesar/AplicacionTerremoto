@@ -1,1 +1,1 @@
-# Proyecto de Android práctica de DDA
+# Proyecto de Android Desarrollo de aplicaciones
